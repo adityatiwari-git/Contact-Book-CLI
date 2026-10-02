@@ -1,0 +1,10 @@
+{
+  "2026-10-07": {
+    "task_id": "fix_repo_link",
+    "description": "Correct the repository URL in the README to the current adityatiwari-git repository."
+  },
+  "2026-10-16": {
+    "task_id": "development_workflow",
+    "description": "Add a simple development and testing note for the CLI project."
+  }
+}

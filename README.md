@@ -42,7 +42,7 @@ Contact-Book-CLI/
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/heyboiii19/Contact-Book-CLI.git
+git clone https://github.com/adityatiwari-git/Contact-Book-CLI.git
 
 
 ## Step 2: Navigate to the project directory

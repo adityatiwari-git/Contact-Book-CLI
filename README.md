@@ -72,3 +72,7 @@ Assigned October 2026 dates:
 > **No meaningful change = no commit and no pull request.**
 
 The workflow does not use Claude, OpenAI, or another external AI coding service.
+
+## Development Workflow
+
+Add a simple development and testing note for the CLI project.
